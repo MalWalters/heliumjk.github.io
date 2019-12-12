@@ -10,7 +10,7 @@ author : Antonio Trento
 css: 
 js:
 keywords: components, demo
-canonical: https://heliumjk.github.io
+canonical: https://malwalters.github.io
 ---
 {% include JB/setup %}
 
@@ -35,11 +35,11 @@ At GHC we offer:
 ---
 ## Scope of consultation
 
-- Permanent Hires
-- Fixed term contract hires
-- Consultant services ( Transformation and Project Management)
-- Contractors ( TBD ) *
-- Consultation from commencement of search through to post placement
-- Hiring Manager engagement and workshops ( * as required)
-- Robust candidate care program
+<li>Permanent Hires
+<li>Fixed term contract hires
+<li>Consultant services ( Transformation and Project Management)
+<li>Contractors ( TBD ) *
+<li>Consultation from commencement of search through to post placement
+<li>Hiring Manager engagement and workshops ( * as required)
+<li>Robust candidate care program
 
