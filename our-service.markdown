@@ -1,8 +1,19 @@
 ---
-layout: page
-title: Our service
-permalink: /our-service/
+layout: index
+title: Componets
+group: navigation
+tagline: A sample page for landing pages and apps, try yourself!
+tags : [components]
+img : 
+img-mobile : 
+author : Antonio Trento
+css: 
+js:
+keywords: components, demo
+canonical: https://heliumjk.github.io
 ---
+{% include JB/setup %}
+
 At GHC both clients and candidates can appreciate our unique standards of service. We take the steps to ensure each recruitment assignment is resourced effectively to meet both client requirements and candidate expectations.
 
 At GHC we offer:
